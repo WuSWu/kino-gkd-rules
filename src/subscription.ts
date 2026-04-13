@@ -4,7 +4,7 @@ import categories from './categories';
 import globalGroups from './globalGroups';
 
 export default defineGkdSubscription({
-  id: 23425342124647313123125788431435313,
+  id: 2026041309258,
   name: 'Subscription',
   version: 0,
   author: 'author',
